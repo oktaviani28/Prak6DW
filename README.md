@@ -1,5 +1,5 @@
-# Prak6 - Desain Web 
-Tugas Prak 6 - Desain Web 
+# Prak7 - Desain Web 
+Tugas Prak 7 - Desain Web 
 - Memperbaiki Kode Segitiga 
 - Memperbaiki Java Script
 
